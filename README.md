@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hynekzobac/Space%20Game%20-%20web%20-%20Multistage/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release)](https://dev.azure.com/hynekzobac/Space%20Game%20-%20web%20-%20Multistage/_build/latest?definitionId=10&branchName=release)
 
 ## Contributing
 
